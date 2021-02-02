@@ -21,3 +21,5 @@ Let's look on this interpritation
 And multihead attention
 
 ![image](https://ai.snip.today/wp-content/uploads/2019/05/vaswani1.png)
+
+**20 epochs** on **TPU**
