@@ -11,6 +11,8 @@ My task is research and realize vision transformer to classify images
 **Loss:** `CrossEntropyLoss`
  
 **Metric:** Accuracy
+
+Trained for `20` epochs on `TPU`, best accuracy `~79%`
  
 ## What is Vision Transformer?
 
@@ -21,5 +23,3 @@ Let's look on this interpritation
 And multihead attention
 
 ![image](https://ai.snip.today/wp-content/uploads/2019/05/vaswani1.png)
-
-**20 epochs** on **TPU**
