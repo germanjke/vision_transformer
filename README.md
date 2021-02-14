@@ -1,4 +1,6 @@
 ## Project for Deep Learning School (2nd part) - Vision Transformer
+
+**Dont forget to check:** Multi head attention map, [link on dropbox](https://www.dropbox.com/s/a63gf5563t75lbv/vision-transformer-vit-visualize-multi-head-attention-map.ipynb?dl=0)
  
 My task is research and realize vision transformer to classify images
  
